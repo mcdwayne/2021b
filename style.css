@@ -8,10 +8,17 @@ Template:       twentytwentyone
 Version:        0.1.0
 */
 
+
 .home {
-    background-color: greenyellow   ;
+    background-color: greenyellow   ;   
+    font-family: cursive;
 }
+
 
 h1, h2, h3 {
     background-color: rgb(31, 165, 29);
+}
+
+.entry-title  {
+    font-family: cursive;
 }
