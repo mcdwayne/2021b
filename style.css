@@ -1,0 +1,17 @@
+/*
+Theme Name:     2021b
+Theme URI:      
+Description:    Twentytwentyone child theme.
+Author:         dwayne
+Author URI:     
+Template:       twentytwentyone
+Version:        0.1.0
+*/
+
+.home {
+    background-color: greenyellow   ;
+}
+
+h1, h2, h3 {
+    background-color: rgb(31, 165, 29);
+}
